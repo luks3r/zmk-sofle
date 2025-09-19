@@ -1,5 +1,7 @@
 # Sofle
 
+Lukser's personal config.
+
 ## Update List
 
 - 2024/12/21
